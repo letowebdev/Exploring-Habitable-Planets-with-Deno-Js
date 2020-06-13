@@ -1,4 +1,4 @@
-# Leto Social Media in MERN Stack
+# Exploring Habitable planets based on NASA Exoplanet using Deno.Js
 The story starts with the kepler spacecraft telescope, this was a state of the art telescope launched into space in 2009 for nearly 10 years.It looked out into space and gather data about planets beyond our solar system. Kepler observed hundreds of thousands of stars and in doing so, discovered over 2000 palanets. And the best part, NASA shared all of the data that kepler gathered, which means in this project and with Deno we are going to take a look! 
 
 
