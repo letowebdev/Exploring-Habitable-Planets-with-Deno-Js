@@ -9,7 +9,7 @@ The story starts with the kepler spacecraft telescope, this was a state of the a
 
 ## Website
 
-* https://leto-sm-react-frontend.herokuapp.com/
+* https://www.youtube.com/watch?v=LOS6z80PaGY
 
 ## Resources
 
