@@ -57,6 +57,7 @@ The story starts with the kepler spacecraft telescope, this was a state of the a
 ## Built With
 
 * [Deno.Js]
+* [TypeScript]
 
 ## Author
 
