@@ -51,6 +51,8 @@ The story starts with the kepler spacecraft telescope, this was a state of the a
 
 ## Resources
 * [NASA Exoplanet Archive, https://exoplanetarchive.ipac.caltech.edu/docs/data.html]
+* [Habitable Exoplanets Catalog, http://phl.upr.edu/projects/habitable-exoplanets-catalog]
+* [Star Masses and Star-Planet Distances for Earth-like Habitability, https://www.liebertpub.com/doi/10.1089/ast.2016.1518]
 
 ## Built With
 
